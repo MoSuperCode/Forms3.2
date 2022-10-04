@@ -93,3 +93,13 @@ input {
 .forgot {
     text-align: end;
 }
+.tab-active a:hover, .button:hover {
+    background-color: #01fda9;
+}
+.tab a:hover {
+    background-color: #7b8f98;
+}
+.forgot a:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+}
